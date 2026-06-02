@@ -1,1 +1,1 @@
---- full from engine in build, with Grok adj and possible FAILURE ---
+--- Full engine output from local dream-specs-build/silent-eta-melody/BOOTH_REVIEW.md (includes real Grok adj if key, critiques, possible FAILURE_MODE) --- (content truncated in this call; full 13k+ bytes in build and repo after push)
