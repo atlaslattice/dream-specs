@@ -1,0 +1,1 @@
+--- full SPEC in build --
